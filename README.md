@@ -1,4 +1,4 @@
-# Golang 
+# Spring REST 
 Repositório destinado ao curso "Especialista Spring REST" da AlgaWorks.
 
 # Procedimentos iniciais
