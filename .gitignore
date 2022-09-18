@@ -1,0 +1,6 @@
+*~
+*.bak
+node_modules/
+.tmp.drivedownload
+
+.metadata
