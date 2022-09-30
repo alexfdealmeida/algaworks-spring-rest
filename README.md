@@ -7,5 +7,5 @@ Para obter uma cópia local, devidamente instalada e configurada, siga as instru
 ## Clonagem
 
 ```sh
-git clone https://github.com/cursos-alex/algaworks-sprint-rest.git
+git clone https://github.com/alexfdealmeida/algaworks-spring-rest.git
 ```
