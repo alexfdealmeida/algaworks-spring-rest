@@ -1,0 +1,28 @@
+{
+  "name": "algaworks-spring-rest",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao curso \"Especialista Spring REST\" da AlgaWorks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfdealmeida/algaworks-spring-rest.git"
+  },
+  "author": "alex.almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexfdealmeida/algaworks-spring-rest/issues"
+  },
+  "homepage": "https://github.com/alexfdealmeida/algaworks-spring-rest#readme",
+  "devDependencies": {
+    "husky": "^4.3.8"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "./copy-git-hooks.sh --update-only-git-hooks",
+      "post-checkout": "./copy-git-hooks.sh --update-only-git-hooks"
+    }
+  }
+}
